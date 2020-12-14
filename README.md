@@ -21,6 +21,12 @@
 * touch pad and touch bar enhancement: BetterTouchTool
 
 
+### system/app settings:
+
+* trackpad: **trackpad** -> *
+* trackpad three-finger drag:  **Accessibility** -> **Pointer Control** -> **Trackpad Options** -> **Enable dragging: Three finger drag**
+* keyboard navigation: **Keyboard** -> **Shortcuts** -> **Use keyboard navigation to move focus between controls**
+
 ## terminal settings:
 
 1. install homebrew
