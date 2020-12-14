@@ -10,6 +10,7 @@
 * keep mac awake: Amphetamine/Jolt of Caffeine
 * unzip: The Unarchiver
 * clean menu bar: hidden
+* quick cd to current dir in shell: Go2Shell
 
 ### useful apps:
 
